@@ -1,6 +1,6 @@
 # Daftar-Biodata-Siswa
 ==
-Daftar Bbiodata Siswa Dicoding Academy
+Daftar Biodata Siswa Dicoding Academy
 --
 *Biodata Siswa terdiri dari 3 angkatan yaitu sebagai berikut :*
 - Angkatan 2021
